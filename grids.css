@@ -17,6 +17,11 @@ html {
   grid-column: 1;
   grid-row: 1;
 }
+.background-img {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+}
 .era1 {
   grid-column: 2;
   grid-row: 1;
