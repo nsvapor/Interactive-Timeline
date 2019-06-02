@@ -44,6 +44,14 @@ html {
   grid-column: 2;
   grid-row: 3;
 }
+.image4 {
+  grid-column: 1;
+  grid-row: 4;
+}
+.era4 {
+  grid-column: 2;
+  grid-row: 4;
+}
 
 .timeline {
   display: table;
